@@ -1,0 +1,32 @@
+{
+  "name": "hanhchinhvn",
+  "version": "1.0.0",
+  "description": "Chuyển đổi file excel danh sách đơn vị hành chính lấy  từ tổng cục thống kê ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laituanmanh32/hanhchinhvn.git"
+  },
+  "keywords": [
+    "hanh",
+    "chinh",
+    "location",
+    "province",
+    "district",
+    "ward",
+    "vietnam",
+    "vn"
+  ],
+  "author": "Manh Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laituanmanh32/hanhchinhvn/issues"
+  },
+  "homepage": "https://github.com/laituanmanh32/hanhchinhvn#readme",
+  "dependencies": {
+    "puppeteer": "^3.1.0"
+  }
+}
